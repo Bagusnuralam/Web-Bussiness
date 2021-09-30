@@ -51,6 +51,8 @@
   h2.h2-lg { font-size: 2.9rem; }  
   h2.h2-xl { font-size: 3.125rem; }   
 
+  h1.h1-lg { font-size: 2.25rem !important; }  
+
   h2.h2-title-xs { font-size: 3.4rem; } 
   h2.h2-title-sm { font-size: 3.65rem; }  
   h2.h2-title-md { font-size: 3.9rem; }
@@ -217,111 +219,12 @@
   /*  HERO
   /*------------------------------------------*/
 
-  /* Hero-1 */
-  #hero-1 { padding-top: 130px; padding-bottom: 100px; }
-  .hero-1-txt { padding-left: 20px; }
-  .hero-1-txt h2 { margin-bottom: 25px; }
-  .hero-1-txt p.p-xl { font-size: 1.175rem; padding-right: 0; margin-bottom: 35px; }
-
-  /* Hero-2 */
-  #hero-2 { padding-top: 140px; }
-  .hero-2-txt p.p-xl { font-size: 1.175rem; padding-right: 0; margin-bottom: 35px; }
-  .hero-2-img { padding: 0 20px; }
-
-  /* Hero-3 */
-  .hero-3-txt h2 { margin-bottom: 25px; }
-  .hero-3-txt p { margin-bottom: 35px; }
-
-  /* Hero-4 */
-  #hero-4-form { padding: 45px 35px; margin-left: 40px; margin-right: 25px; }
-
-  /* Hero-5 */
-  .hero-5-txt { padding-left: 15%; }
-  .hero-5-img { margin-left: 0; }
-
-  /* Hero-6 */
-  .hero-6-txt { padding-left: 15px; padding-right: 0; }
-  #hero-6 .quick-form { margin: 40px 5px 0 0; }
-  #hero-6 .quick-form .btn { padding: 13px 32px; }
-
-  /* Hero-7 */
-  .hero-7-txt { margin-top: -30px; padding-left: 15px; padding-right: 0; }
-  .hero-7-img { margin-left: 30px; }
-
-  /* Hero-8 */
-  .hero-8-txt { padding-left: 30px; padding-right: 10px; }
-  .hero-8-img { padding: 0; }
-  #hero-8 .quick-form { margin: 40px 5px 0 0; }
-  #hero-8 .quick-form .btn { padding: 13px 32px; }
-
-  /* Hero-9 */
-  #hero-9 { padding-top: 160px; padding-bottom: 20px; }
-  #hero-9-form { padding: 45px 30px; margin-left: -40px; margin-right: 40px; }
-  #hero-9-form h4.h4-xs { font-size: 1.65rem; }
-
-  /* Hero-10 */
-  .hero-10-txt p { margin-bottom: 30px; }
-  .hero-10-img { padding: 0 25px; margin-top: 50px; }
-
-  /* Hero-11 */
-  .hero-11-txt { padding-left: 25px; padding-right: 15px; }
-
-  /* Hero-12 */
-  .hero-12-txt h2 { margin-bottom: 25px; }
-  .hero-12-txt p { font-size: 1.25rem; padding-right: 5%; }
-  #hero-12:after { height: 38%; top: 62%; }
-  .hero-12-img { margin-top: 40px; }
-
-  /* Hero-13 */
-  .hero-13-title { margin-bottom: 35px; }
-  .hero-13-txt { padding-right: 5%; margin-top: 10px; }
-  .hero-section .tools-list.mt-50 { margin-top: 30px; }
-  .hero-13-img { margin: 0 -0 -60px -45px; }
-
-  /* Hero-14 */
-  .hero-14-txt { padding-left: 15px; }
-  .hero-14-txt h2 { margin-bottom: 15px; }
-  .hero-14-txt p.p-xl { margin-bottom: 30px; }
-
-  /* Hero-15 */
-  .hero-15-img { padding: 0 25px; margin-top: 60px; }
-
-  /* Hero-16 */
-  .hero-16-txt { padding-left: 15px; padding-right: 25px; }
-
-  /* Hero-17 */
-  .hero-17-txt { margin-top: 40px; padding-right: 0; }
-  .hero-17-img { margin-bottom: -100px; }
-
-  /* Hero-18 */
-  #hero-18-form { padding: 0 11% 0 25px; }
-  #hero-18-form p.p-lg { margin-top: 20px; margin-bottom: 30px; }
-  #hero-18-form .form-btn { margin-top: 10px; }
-  #hero-18-form .advantages { margin-top: 10px; }
-  .hero-18-img { padding: 0 30px 0 40px; }
-
-  /* Hero-19 */
-  .hero-19-txt { margin-top: 0; }
-  .hero-19-img { margin-left: 25px; margin-bottom: -70px; }
-
-  /* Hero-20 */
-  .hero-20-txt h2 { margin-bottom: 25px; }
-  .hero-20-txt p { margin-bottom: 30px; }
-
   /* Hero-21 */
   #hero-21 { padding-top: 150px; }
   .hero-21-txt h2 { padding: 0 5%; }
   .hero-21-txt p.p-xl { padding: 0 10%; }
 
   #hero-21 .quick-form { margin: 40px 10% 0; }
-
-  /* Hero-22 */
-  .hero-22-wrapper { padding: 60px 50px 20px; }
-  .hero-22-wrapper .img-block { margin-left: -20px; }
-
-  /* Hero-24 */
-  .hero-24-txt h2.tra-header { top: -20px; left: -24%; font-size: 20rem; }
-  .hero-24-img img { padding: 0 10%; }
 
   /*------------------------------------------*/
   /*  CONTENT
@@ -643,6 +546,8 @@
   h2.h2-title-lg { font-size: 3.75rem; }  
   h2.h2-title-xl { font-size: 4rem; }
 
+  h1.h1-lg { font-size: 2.25rem !important; }  
+
   /* Paragraphs */
   p { font-size: 0.95rem; }  
   p.p-md { font-size: 1rem; }   
@@ -898,156 +803,11 @@
   .hero-brands p {margin-bottom: 30px;}
   .hero-brands .brand-logo {padding: 0 15px; }
 
-  /* Hero-1 */
-  #hero-1 { padding-top: 70px; padding-bottom: 30px; }
-  .hero-1-txt { margin-right: -30px; }
-  .hero-1-txt h2 { margin-bottom: 25px; }
-  .hero-1-txt p.p-xl { font-size: 1.15rem; padding-right: 0; margin-bottom: 35px; }
-  .hero-1-img { margin-right: -60%; padding-left: 10px; margin-bottom: -40px; }
-
-  /* Hero-2 */
-  #hero-2 { padding-top: 80px; margin-bottom: 50px; }
-  .hero-2-txt { padding-left: 10px; }
-  .hero-2-txt p.p-xl { font-size: 1.05rem; padding-right: 0; margin-bottom: 35px; }
-  .hero-2-img { margin-left: -55%; padding: 0 10px 0 0; }
-
-  /* Hero-3 */
-  #hero-3 { padding-top: 80px; padding-bottom: 0; margin-bottom: 40px; }
-  .hero-3-txt { text-align: center; margin-top: 0; padding: 0 12%; }
-  .hero-3-txt h2 { padding: 0 6%; margin-bottom: 25px; }
-  .hero-3-txt p.p-xl { padding: 0 4%; margin-bottom: 35px; }
-  .hero-3-img { margin: 40px 0 -50px; }
-
-  /* Hero-4 */
-  #hero-4 { padding-top: 80px; padding-bottom: 40px; }
-  .hero-4-txt { padding-left: 0; }
-  #hero-4-form { padding: 35px 25px; margin-left: 20px; margin-right: 0; }
-  #hero-4-form p { margin-bottom: 20px; }
-  #hero-4-form .form-btn.mt-10 { margin-top: 0; }
-
-  /* Hero-5 */
-  #hero-5 { padding-top: 60px; }
-  .hero-5-txt { padding: 0 5%; }
-  .hero-5-img { margin-right: -55%; }
-
-  /* Hero-6 */
-  #hero-6 { padding-top: 80px; padding-bottom: 0; margin-bottom: 80px; }
-  .hero-6-txt { text-align: center; padding: 0 5%; }
-  .hero-6-txt h2 { margin-bottom: 25px; }
-  #hero-6 .quick-form { margin: 40px 8% 50px; }
-  #hero-6 .quick-form .btn { padding: 13px 50px; }
-  .hero-6-img { margin-bottom: -80px; padding: 0 10%; }
-
-  /* Hero-7 */
-  #hero-7 { padding-top: 80px; }
-  .hero-7-txt { text-align: center;  margin-top: 0; padding: 0; }
-  .hero-7-txt ul.simple-list { list-style: none; margin-left: 0; padding: 0 10%; }
-  .hero-7-img { margin: 50px 0 -60px; }
-  .hero-7-img img { max-width: 100%; display: block; }
-
-  /* Hero-8 */
-  #hero-8 { padding-top: 80px; padding-bottom: 50px; margin-bottom: 50px; }
-  .hero-8-txt { text-align: center; padding: 0 10%; }
-  .hero-8-img { padding: 0 10%; margin-bottom: -100px; }
-  .hero-8-txt h2 { margin-bottom: 25px; }
-  .hero-8-txt p { padding: 0 6%; }
-  #hero-8 .quick-form { margin: 40px 4% 60px; }
-  #hero-8 .quick-form .btn { padding: 13px 50px; }
-
-  /* Hero-9 */
-  #hero-9 { padding-top: 80px; padding-bottom: 40px; }
-  #hero-9-form { padding: 40px 30px; margin-left: 30px; margin-right:0; }
-  #hero-9-form h4.h4-xs { font-size: 1.65rem; }
-
-  /* Hero-10 */
-  #hero-10 { padding-top: 80px; }
-  .hero-10-txt { padding: 0 5%; }
-  .hero-10-txt p { margin-bottom: 30px; }
-  .hero-10-img { padding: 0; margin-top: 50px; }
-
-  /* Hero-11 */
-  #hero-11 { padding-top: 80px; }
-  .hero-11-txt { padding: 0; }
-  .hero-11-img { margin-left: -55%; padding: 0 10px 0 0; }
-
-  /* Hero-12 */
-  #hero-12 { padding-top: 80px; }
-  .hero-12-txt { text-align: center; padding: 0 10%; }
-  .hero-12-txt h2 { margin-bottom: 25px; }
-  .hero-12-txt p { font-size: 1.175rem; padding-right: 0; margin-bottom: 0; }
-  #hero-12:after { height: 35%; top: 65%; }
-  .hero-12-img { margin-top: 40px; }
-
-   /* Hero-13 */
-   #hero-13 { padding-top: 80px; margin-bottom: 30px; }
-   .hero-13-title { margin-bottom: 15px; }
-  .hero-13-txt { padding: 0; margin-top: 15px; }
-  .hero-section .tools-list.mt-50 { margin-top: 25px; }
-  .hero-section .tools-list h6 { margin-bottom: 15px; }
-  .hero-13-img { margin: 0 -35% -30px -35px; }
-
-  /* Hero-14 */
-  #hero-14 { padding-top: 80px; padding-bottom: 80px; }
-  .hero-14-txt { padding-left: 0; }
-  .hero-14-txt h2 { margin-bottom: 15px; }
-  .hero-14-txt p.p-xl { margin-bottom: 25px; }
-  .hero-14-img { margin: 0 -70% -100px -10%; }
-
-  /* Hero-16 */
-  #hero-16 { padding-top: 80px; }
-  .hero-16-txt { padding: 0; }
-  .hero-16-img { margin-left: -55%; padding: 0 10px 0 0; }
-
-  /* Hero-17 */
-  #hero-17 { padding-top: 80px; }
-  .hero-17-title.mb-50 { margin-bottom: 40px; }
-  .hero-17-txt { margin-top: 40px; padding-right: 15px; }
-  .hero-17-img { margin-bottom: -80px; }
-
-  /* Hero-15 */
-  #hero-15 { padding-top: 80px; }
-  .hero-15-txt { padding: 0 5%; }
-  .hero-15-txt h2 { margin-bottom: 25px; }
-  .hero-15-img { padding: 0; margin-top: 45px; margin-bottom: -15%; }
-
-  /* Hero-18 */
-  #hero-18 { padding-top: 80px; padding-bottom: 20px; }
-  #hero-18:after { width: 100%; left: 0; } 
-  #hero-18-form { padding: 0 30px 0 0; }
-  #hero-18-form p.p-lg { margin-top: 15px; margin-bottom: 25px; }
-  #hero-18-form .form-btn { margin-top: 5px; }
-  #hero-18-form .advantages { margin-top: 10px; }
-  .hero-18-img { padding-left: 0; margin-right: -50%; }
-
-  /* Hero-19 */
-  #hero-19 { padding-top: 80px; }
-  .hero-19-txt { margin-top: 0; }
-  .hero-19-txt p.p-xl { margin-bottom: 35px; }
-  .hero-19-img { margin-left: 25px; margin-bottom: -100px; }
-
-  /* Hero-20 */
-  #hero-20 { background-position: left center; padding-top: 80px; padding-bottom: 80px; }
-  .hero-20-txt { padding-right: 10%; }
-  .hero-20-txt h2 { margin-bottom: 20px; }
-  .hero-20-txt p { padding-right: 0; margin-bottom: 30px; }
-
   /* Hero-21 */
   #hero-21 { padding-top: 80px; }
   .hero-21-txt p.p-xl { padding: 0; }
 
   #hero-21 .quick-form { margin: 40px 0 0; }
-
-  /* Hero-22 */
-  #hero-22 .txt-block { margin-top: -30px; }
-  #hero-22 .img-block { margin-right: -60%; }
-  .hero-22-wrapper { padding: 60px 50px 20px; }
-  .hero-22-wrapper .img-block { margin-left: -20px; }
-
-  /* Hero-24 */
-  .hero-24-txt { padding-top: 80px; padding-bottom: 0; }
-  .hero-24-txt h5 { padding: 0 5%; margin-bottom: 20px; }
-  .hero-24-txt h2.tra-header { top: -20px; left: -15%; font-size: 17rem; }
-  .hero-24-img img { padding: 0 15%; }
 
   /* Hero Request Form */
   .request-form .form-control { height: 50px; font-size: 17px; }
@@ -1882,6 +1642,8 @@
   h2.h2-lg { font-size: 2.2rem; } 
   h2.h2-xl { font-size: 2.375rem; } 
 
+  h1.h1-lg { font-size: 2.25rem !important; }  
+
   h2.h2-title-xs { font-size: 2.5rem; } 
   h2.h2-title-sm { font-size: 2.75rem; } 
   h2.h2-title-md { font-size: 2.9rem; } 
@@ -2032,100 +1794,6 @@
 
   /* Hero Brands */
   .hero-brands p { margin-bottom: 25px; }
-
-  /* Hero-1 */
-  .hero-1-txt { padding: 0 4%; margin-bottom: 30px; }
-  .hero-1-txt p.p-xl { font-size: 1.125rem; padding-right: 0; margin-bottom: 30px; }
-  .hero-1-img { padding: 0 5%; }
-
-  /* Hero-2 */
-  #hero-2 { margin-bottom: 50px; }
-  .hero-2-txt { padding: 0 5%; }
-  .hero-2-txt h2 { margin-bottom: 25px; }
-  .hero-2-txt p.p-xl { font-size: 1.125rem; padding: 0; margin-bottom: 35px; }
-  .hero-2-img { padding: 0 8%; }
-
-  /* Hero-3 */
-  .hero-3-txt { padding: 0 5%; }
-  .hero-3-txt h2 { padding: 0 4%; }
-
-  /* Hero-4 */
-  .hero-4-txt { padding: 0 5%; }
-  #hero-4-form { text-align: center; margin-left: 5%; margin-right: 5%; }
-
-  /* Hero-5 */
-  .hero-5-txt { padding: 0 20%; margin-top: 40px; }
-  .hero-5-list h4.h4-xl { font-size: 1.55rem; }
-  .hero-5-list h5.h5-xl { font-size: 1.4rem; }
-
-  /* Hero-6 */
-  .hero-6-txt { padding: 0 3%; }
-  .hero-6-txt h2 { margin-bottom: 25px; }
-  #hero-6 .quick-form { margin: 40px 4% 50px; }
-  #hero-6 .quick-form .btn { padding: 13px 30px; }
-  .hero-6-img { padding: 0 6%; }
-
-  /* Hero-7 */
-  .hero-7-txt h2 { padding: 0 10%;}
-  .hero-7-txt ul.simple-list { padding: 0 10%; }
-  .hero-7-txt .btns-group { margin-top: 30px; }
-
-  /* Hero-8 */
-  .hero-8-txt { padding: 0 8%; }
-  .hero-8-txt h2 { margin-bottom: 25px; }
-  #hero-8 .quick-form { margin: 40px 0 60px; }
-  #hero-8 .quick-form .btn { padding: 13px 30px; }
-
-  /* Hero-9 */
-  #hero-9 { background-position: center center; }
-  #hero-9-form { text-align: center; padding: 40px 35px; margin-left: 10%; margin-right: 10%; }
-  #hero-9-form h4.h4-xs { font-size: 1.65rem; }
-
-  /* Hero-10 */
-  .hero-10-txt p { padding: 0; }
-  .hero-10-img { padding: 0; margin-top: 50px; }
-
-  /* hero-11 */
-  .hero-11-txt { text-align: center; padding: 0 5%; margin-bottom: 40px; }
-  .hero-11-txt .os-btn { margin: 0 auto 20px; } 
-  .hero-11-img { padding: 0 10%; }
-
-  /* Hero-12 */
-  #hero-12:after { height: 25%; top: 80%; }
-  .hero-12-txt { padding: 0 5%; }
-  .hero-12-txt h2 { margin-bottom: 25px; }
-  .hero-12-txt p { font-size: 1.15rem; padding-right: 0; }
-  #hero-12:after { height: 30%; top: 70%; }
-  .hero-12-txt .hero-logo-rounded { margin-bottom: 30px; }
-  .hero-12-img { margin-top: 35px; }
-
-  /* Hero-13 */
-  .hero-13-title { margin-bottom: 20px; }
-
-  /* Hero-15 */
-  .hero-15-txt h2 { margin-bottom: 25px; }
-  .hero-15-txt p { padding: 0; }
-  .hero-15-img { padding: 0; margin-top: 40px; margin-bottom: -12%; }
-
-  /* hero-16 */
-  .hero-16-txt { text-align: center; padding: 0 5%; margin-bottom: 40px; }
-  .hero-16-img { padding: 0 10%; }
-
-  /* Hero-17 */
-  .hero-17-img { margin-bottom: -50px; }
-
-  /* Hero-18 */
-  #hero-18-form .form-btn { margin-top: 5px; }
-
-  /* Hero-19 */
-  #hero-19 { margin-bottom: 60px; }
-  .hero-19-txt h2 { margin-bottom: 20px; }
-  .hero-19-txt p.p-xl { padding: 0 5%; margin-bottom: 30px; }
-  .hero-19-img { margin-top: 30px; }
-
-  /* Hero-20 */
-  .hero-20-txt h2 { margin-bottom: 20px; }
-  .hero-20-txt p { padding: 0 10%; margin-bottom: 25px; }
 
   /* Hero-21 */
   .hero-21-txt p.p-xl { padding: 0; }
@@ -2401,6 +2069,8 @@
   h2.h2-md { font-size: 1.625rem; }  
   h2.h2-lg { font-size: 1.625rem; }  
   h2.h2-xl { font-size: 1.625rem; }   /* 26px */
+
+  h1.h1-lg { font-size: 2.25rem !important; }  
 
   h2.h2-title-xs { font-size: 1.875rem; }  /* 30px */ 
   h2.h2-title-sm { font-size: 1.875rem; }  /* 30px */ 
@@ -3015,6 +2685,8 @@
   h2.h2-md { font-size: 1.625rem; }  
   h2.h2-lg { font-size: 1.625rem; }  
   h2.h2-xl { font-size: 1.625rem; }   /* 26px */
+
+  h1.h1-lg { font-size: 2.25rem !important; }  
 
   h2.h2-title-xs { font-size: 1.875rem; }  /* 30px */ 
   h2.h2-title-sm { font-size: 1.875rem; }  /* 30px */ 
@@ -3639,6 +3311,8 @@
   h2.h2-lg { font-size: 1.625rem; }  
   h2.h2-xl { font-size: 1.625rem; }   /* 26px */
 
+  h1.h1-lg { font-size: 2.25rem !important; }  
+
   h2.h2-title-xs { font-size: 1.875rem; }  /* 30px */ 
   h2.h2-title-sm { font-size: 1.875rem; }  /* 30px */ 
   h2.h2-title-md { font-size: 2rem; }      /* 32px */
@@ -3829,137 +3503,6 @@
   .hero-brands {margin-top: 30px; padding: 0; } 
   .hero-brands p { padding: 0 5%; margin-bottom: 20px; }
   .hero-brands .brand-logo {padding: 0 15px; }
-
-  /* Hero-1 */
-  .hero-1-txt { padding: 0 5px; margin-bottom: 30px; }
-  .hero-1-txt h2 { font-size: 1.65rem; margin-bottom: 20px; }
-  .hero-1-txt p.p-xl { font-size: 1.05rem; padding-right: 0; margin-bottom: 30px; }
-  .hero-1-img { padding: 0 5%; }
-
-  /* Hero-2 */
-  #hero-2 { margin-bottom: 50px; }
-  .hero-2-txt { padding: 0; }
-  .hero-2-txt h2 { font-size: 1.65rem; margin-bottom: 15px; }
-  .hero-2-txt p.p-xl { font-size: 1.05rem; padding: 0; margin-bottom: 30px; }
-  .hero-2-img { padding: 0; }
-
-  /* Hero-3 */
-  #hero-3 { margin-bottom: 40px; }
-  .hero-3-txt h2 {  font-size: 1.75rem; padding: 0; margin-bottom: 25px; }
-  .hero-3-txt p.p-xl { padding: 0; margin-bottom: 30px; }
-  .hero-3-img { margin-right: 0; margin-bottom: -40px; }
-
-  /* Hero-4 */
-  .hero-4-txt { padding: 0; }
-  .hero-4-txt h2 { font-size: 1.65rem; margin-bottom: 20px; }
-  #hero-4-form { padding: 40px 15px 30px; text-align: center; margin-left: 0; margin-right: 0; }
-  #hero-4-form h4 { font-size: 1.35rem; }
-  #hero-4-form p { margin-bottom: 25px; }
-  #hero-4-form .form-btn.mt-10 { margin-top: 0; }
-  #hero-4-form .form-btn .btn { font-size: 1.05rem;  }
-
-  /* Hero-5 */
-  .hero-5-txt { padding: 0 4%; margin-top: 40px; }
-  .hero-5-list li { padding: 14px 5px; }
-  .hero-5-list li.first-li { padding: 23px 5px 16px; }
-  .hero-5-list li.last-li { padding: 16px 5px 20px; }
-  .hero-5-list h4.h4-xl { font-size: 1.35rem; }
-  .hero-5-list h5.h5-xl { font-size: 1.25rem; }
-  .hero-5-links { margin-top: 35px; }
-
-  /* Hero-6 */
-  .hero-6-txt { padding: 0; }
-  .hero-6-txt h2 { font-size: 1.75rem; margin-bottom: 20px; }
-  #hero-6 .quick-form { margin: 25px 3% 40px; }
-  #hero-6 .quick-form .btn { padding: 13px 30px; }
-
-  /* Hero-7 */
-  #hero-7 { margin-bottom: 30px; }
-  .hero-7-txt { padding: 0; }
-  .hero-7-txt h2 { font-size: 1.75rem; margin-bottom: 15px; }
-  .hero-7-txt .btns-group { margin-top: 30px; }
-  .hero-7-img { margin: 40px 0 -40px; }
-
-  /* Hero-8 */
-  .hero-8-txt { padding: 0;  }
-  .hero-8-txt h2 { font-size: 1.75rem; margin-bottom: 20px; }
-  .hero-8-img { padding: 0; }
-  #hero-8 .quick-form { margin: 25px 2% 50px; }
-  #hero-8 .quick-form .btn { padding: 13px 30px; }
-
-  /* Hero-9 */
-  #hero-9 { background-position: right center; }
-  #hero-9-form { text-align: center; padding: 35px 15px 25px; margin-left: 0; margin-right: 0; }
-  #hero-9-form h4.h4-xs { font-size: 1.35rem; }
-  #hero-9-form .form-btn.mt-10 { margin-top: 0; }
-  #hero-9-form .form-btn .btn { font-size: 1.05rem; }
-
-  /* Hero-10 */
-  #hero-10 { margin-bottom: 60px; }
-  .hero-10-txt h2 { font-size: 1.75rem; margin-bottom: 20px; }
-  .hero-10-txt p { padding: 0; margin-bottom: 30px; }
-  .hero-10-img { padding: 0; margin: 35px 0 -60px; }
-
-  /* Hero-11 */
-  .hero-11-txt { text-align: center; padding: 0; margin-bottom: 40px; }
-  .hero-11-txt h2 { font-size: 1.6rem; padding: 0 3%; margin-bottom: 20px; }
-  .hero-11-txt .os-btn { margin: 0 auto 20px; } 
-  .hero-11-img { padding: 0 5%; }
-
-  /* Hero-12 */
-  #hero-12:after { height: 25%; top: 80%; }
-  .hero-12-txt h2 { font-size: 1.75rem; margin-bottom: 20px; }
-  .hero-12-txt p { font-size: 1.05rem; padding-right: 0; margin-bottom: 0; }
-  .hero-12-txt .hero-logo-rounded { margin-bottom: 30px; }
-  .hero-12-img { margin-top: 30px; }
-
-  /* Hero-13 */
-  .hero-13-title { margin-bottom: 15px; }
-  .hero-13-title h2 { font-size: 1.65rem; }
-
-  /* Hero-14 */
-  .hero-14-txt{ text-align: center;  }
-  .hero-14-txt h2 { font-size: 1.75rem; padding: 0 3%; margin-bottom: 15px; }
-  .hero-14-txt p.p-xl { padding: 0 5%; }
-
-  /* Hero-15 */
-  #hero-15 { overflow: visible; margin-bottom: 40px; }
-  .hero-15-txt h2 { font-size: 1.75rem; padding:  0 3%; margin-bottom: 25px; }
-  .hero-15-txt p { padding: 0; margin-bottom: 30px; }
-  .hero-15-img { padding: 0; margin-top: 30px; margin-bottom: -40px; }
-
-  /* Hero-16 */
-  .hero-16-txt { text-align: center; padding: 0; margin-bottom: 40px; }
-  .hero-16-txt h2 { font-size: 1.65rem; margin-bottom: 20px; }
-  .hero-16-txt p { padding: 0 3%; }
-  .hero-16-txt .stores-badge { margin-bottom: 15px; } 
-  .hero-16-img { padding: 0 5%; }
-
-  /* Hero-17 */
-  .hero-17-title.mb-50 { margin-bottom: 20px; }
-  .hero-17-title h2 { font-size: 1.65rem;  }
-  .hero-17-txt p.p-xl { padding: 0 5%; }
-  .hero-17-txt .os-btn { margin-left: 1%; margin-right: 1%; }
-  .hero-17-img { margin-bottom: -30px; }
-
-  /* Hero-18 */
-  #hero-18-form { padding: 0 5%; }
-  #hero-18-form h2 { font-size: 1.75rem;  }
-  #hero-18-form p.p-lg { margin-top: 20px; margin-bottom: 30px; }
-  #hero-18-form .form-btn { margin-top: 5px; }
-  .hero-18-img { padding: 0 3%; margin-top: 40px; }
-
-  /* Hero-19 */
-  #hero-19 { margin-bottom: 30px; }
-  .hero-19-txt { text-align: center; margin-top: 0; }
-  .hero-19-txt h2 { font-size: 1.75rem;  margin-bottom: 15px; }
-  .hero-19-txt p.p-xl { padding: 0 5%; margin-bottom: 20px; }
-  .hero-19-img { margin: 30px 0 -40px; }
-
-  /* Hero-20 */
-  .hero-20-txt h2 { font-size: 1.7rem; padding: 0 3%; margin-bottom: 15px; }
-  .hero-20-txt { padding: 0; }
-  .hero-20-txt p { padding: 0 3%; margin-bottom: 25px; }
 
   /* Hero-21 */
   .hero-21-txt h2 { font-size: 1.7rem; padding: 0 5%; margin-bottom: 20px; }
