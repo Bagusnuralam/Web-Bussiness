@@ -1,0 +1,170 @@
+
+
+
+.button {
+    background-color: #F40000;
+    border: none;
+    color: black;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    transition: 0.3s;
+}
+
+.button:hover {
+    background-color: rgb(250, 246, 10);
+    color: red;
+}
+
+.icon {
+    height: 80px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+form {
+    margin: 0px 30px 0px 30px;
+    padding: 20px 0px;
+    padding-right: 30px;
+    padding-left: 30px;
+    border-radius: 20px;
+    font-family: 'Rubik', sans-serif;
+}
+
+.btn-login .box-login input:hover{
+   background: rgba(10, 10, 10,s 0.5);
+ }
+
+ .btn-login {
+   margin-left: 10px;
+   margin-bottom: 20px;
+   background: none;
+   border: 2px solid black;
+   padding: 10px;
+   color: black;
+   font-size: 18px;
+   letter-spacing: 3px;
+   cursor: pointer;
+   }
+
+ .btn-login:hover{
+   background: rgba(12, 30, 15, 0.5);
+ }
+
+ .box-login {
+    display: flex;
+    margin: 10px;
+    border-bottom: 1px solid grey;
+    padding: 5px 0;
+  }
+
+  .btn-loading {
+    width: 20%;
+    height: 60px;
+    display: flex;
+    margin-left: 10px;
+  }
+
+
+  /*------------------------------------------*/
+/*  CONTACT FORM INPUT
+/*------------------------------------------*/
+
+.contact-form .form-control,
+.contact-form .form-select {
+  height: 60px;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  box-shadow: 0 0 0 0;
+  color: #3a4a56;
+  font-size: 1.1rem;
+  font-weight: 400;
+  padding: 0 15px;
+  margin-bottom: 30px;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  border-radius: 6px;
+}
+
+.contact-form span {
+  font-family: 'Rubik', sans-serif;
+  font-size: 1.25rem;
+  color: grey;
+}
+
+.contact-form .form-select {
+  display: inline-block;
+  width: 100%;
+  color: #998da0;
+  box-shadow: 0;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  border-radius: 6px;
+}
+
+/*------------------------------------------*/
+/*  Contact Form Textarea
+/*------------------------------------------*/
+
+.contact-form textarea { min-height: 220px; }
+.contact-form textarea.form-control { 
+  padding: 20px 15px;
+}
+
+/*------------------------------------------*/
+/*  Contact Form Placeholder
+/*------------------------------------------*/
+
+.contact-form .form-control::-moz-placeholder { color: #999; } 
+.contact-form .form-control:-ms-input-placeholder { color: #999; }
+.contact-form .form-control::-webkit-input-placeholder { color: #999; }
+
+/*------------------------------------------*/
+/*  Contact Form Input Focus
+/*------------------------------------------*/
+
+.contact-form .form-control:focus,
+.contact-form .form-select:focus {
+  outline: 0px none;
+  box-shadow: none;
+  border-color: #009ddc;
+}
+
+/*------------------------------------------*/
+/*  Contact Form Button
+/*------------------------------------------*/
+
+#contacts-1-form .btn {
+  width: 100%;
+  padding: 16px;
+}
+
+/*------------------------------------------*/
+/*    Contact Form Message
+/*------------------------------------------*/
+
+.contact-form-msg {
+  width: 100%!important;
+  display: block;
+  margin-top: 20px;
+  padding-left: 0;
+}
+
+.contact-form .loading {
+  color: #00b2e4;
+  font-size: 18px;
+  font-weight: 500;
+  padding-left: 15px;
+}
+
+.contact-form  .error {
+  color: #e74c3c;
+  font-size: 16px;
+  font-weight: 400;
+  margin-bottom: 20px;
+  padding-left: 10px;
+}
+

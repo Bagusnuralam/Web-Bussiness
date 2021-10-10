@@ -2696,7 +2696,11 @@ p.terms-txt a,
 }
 
 .hero-section .container h1 {
- text-shadow:rgb(255, 230, 6) 2px 0px 2px;
+ text-shadow:rgb(255, 230, 6) 4px 2px 4px;
+}
+
+.hero-section .container .p-xl {
+ font-size: 22px;
 }
 
 
@@ -2758,7 +2762,7 @@ p.terms-txt a,
 /*  HERO-21
 /*------------------------------------------*/
 #hero-21 {
-  padding-top: 180px;
+  padding-top: 170px;
   padding-bottom: 80px;
 }
 
@@ -5916,38 +5920,3 @@ img.footer-logo {
   box-shadow: 0 0;
 }
 
-
-
-
-/* ==========================================================================
-  27. SCROLL TO TOP
-  ========================================================================== */  
- 
-#scrollUp {
-  display: none;
-  width: 44px;
-  height: 44px;
-  position: fixed;
-  bottom: 30px;
-  right: 25px;
-  -webkit-border-radius: 100%;
-  -moz-border-radius: 100%;
-  border-radius: 100%;
-  background-image: url(../images/back-to-top.png);
-  background-repeat: no-repeat;
-  background-position: 50% 48%;
-  background-color: rgba(6, 255, 6, 0.705);
-  -webkit-transition: all 400ms ease-in-out;
-  -moz-transition: all 400ms ease-in-out;
-  -o-transition: all 400ms ease-in-out;
-  -ms-transition: all 400ms ease-in-out;
-  transition: all 400ms ease-in-out; 
-}
-
-#scrollUp:hover {
-  background-color: rgba(6, 255, 6, 0.705);
-}
-
-nav a#pull {  
-  display: none;  
-}
