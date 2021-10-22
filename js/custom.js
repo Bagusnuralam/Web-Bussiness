@@ -93,7 +93,7 @@
 					patterns: {
 						youtube: {			   
 							index: 'youtube.com',
-							src: 'https://www.youtube.com/embed/1J_NJyEECx0'				
+							src: 'https://www.youtube.com/embed/tOqvPkDQk7E'				
 								}
 							}
 						}		  		  
@@ -149,7 +149,6 @@
 					}
 				}
 		});
-
 
 		/*----------------------------------------------------*/
 		/*	Testimonials Rotator
